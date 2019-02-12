@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexaig.91neo.com/sitemap.xml
